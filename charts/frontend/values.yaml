@@ -1,0 +1,4 @@
+frontend:
+  image:
+    repository: manister7/student-ui
+    tag: latest

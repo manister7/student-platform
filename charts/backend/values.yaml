@@ -1,0 +1,10 @@
+backend:
+  image:
+    repository: manister7/student-backend
+    tag: latest
+  env:
+    database:
+      host: 192.168.80.52
+      port: 3306  
+      user: appuser
+      password: P@ssw0rd
